@@ -1,1 +1,6 @@
 body{background-color: aquamarine;}
+
+*{margin:0px;padding:0px;box-sizing:border-box}
+.full{width:100vw;height:100vh;}
+.quarter{width:50%;height:50%;background-color:blue;border:1px solid white}
+.flexy{display:flex;flex-wrap:wrap}
